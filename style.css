@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Arial|Helvetica|sans-serif');
+
+header{
+    background:#26263a;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+h1{
+    font-family: 'Arial';
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    font-size: 3em;
+    color:white;
+    text-transform: uppercase;
+    padding-top: 20px;
+}
+
+p{
+    font-family: 'Helvetica';
+    font-size:22px; 
+    color:whitesmoke;
+    text-align: center;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom:20px;
+}
+
+
+h2{
+    font-family: 'Arial';
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    font-size: 3em;
+    color:skyblue;
+    text-transform: uppercase;
+    padding-top: 20px;
+} 
+
+.col{
+    padding-bottom:10px;
+    padding-top:10px;
+}
+
+.carousel-inner{
+    height:600px;
+    width:100%; 
+}
+
+footer{
+    background:#26263a;
+    font-family: 'Arial';
+    font-size:10em;
+    padding-top:20px;    
+}
